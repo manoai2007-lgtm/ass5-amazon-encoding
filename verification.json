@@ -1,0 +1,13 @@
+{
+  "original_rows": 21214,
+  "original_columns": 9,
+  "duplicates_removed": 2,
+  "essential_missing_rows_removed": 157,
+  "cleaned_rows": 21055,
+  "encoded_features": 142,
+  "executed_code_cells": 14,
+  "markdown_cells": 16,
+  "errors": 0,
+  "missing_output_cells": 0,
+  "csv_sha256": "6f24067bf8b5bd6d85f64ee62155bc0b3eeac76d7362e74def262e8f7dd03f48"
+}
